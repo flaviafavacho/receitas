@@ -7,7 +7,11 @@ h1{
 }
 
 li{
-    color: yellow;
+    color: rgb(111, 0, 255);
 }
+.mod{
+    color: fuchsia
+}
+
 
 
